@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main_container {
+    background: #FFAEAF;
+    max-width: 1604px;
+    width: 100%;
+    margin: 64px auto 268px auto;
+    padding: 96px;
+    
+}
+
+#main_container_content{
+    max-width: 1412px;
+    width: 100%;
+    padding: 96px 0;
+    background: #FFF;
+}
+
+#header-container{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 32px;
+
+}
+
+#our_blog{
+    text-align: center;
+    color: #ED00A6;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;  
+}
+
+h1 {
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 24px;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;    
+}
+
+#header_container_p{
+    text-align: center;
+    color: #535862;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+#first_container{
+    max-width: 1280px;
+    width: 100%;
+    margin: 96px auto;
+
+}
+
+#second_container{
+    max-width: 1280px;
+    width: 100%;
+    margin: 96px auto;    
+}
+
+#second_image{
+    margin-left: 680px;
+}
+
+#third_container{
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 100%;
+}
